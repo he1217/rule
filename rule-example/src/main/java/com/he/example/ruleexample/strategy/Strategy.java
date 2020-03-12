@@ -1,4 +1,4 @@
-package com.he.example.ruleexample.strategy_pattern;
+package com.he.example.ruleexample.strategy;
 
 /**
  * @author he.xuelong
